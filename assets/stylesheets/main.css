@@ -242,3 +242,57 @@ LOREM
     padding: 40px 100px 30px 100px;
     font-size: 14px;
 }
+
+
+.info-section{
+    color: #000;
+
+}
+
+
+/*
+=======
+Table
+======
+*/
+
+table {
+  margin-bottom: 44px;
+  width: 100%;
+}
+
+table:last-child {
+  margin-bottom: 0;
+}
+
+th,
+td {
+  padding-bottom: 5px;
+  vertical-align: top;
+}
+
+th {
+  padding-right: 45px;
+  text-align: right;
+  width: 20%;
+}
+
+
+
+tbody th {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+tbody td {
+  border-bottom: 1px solid #ededed;
+  padding: 5px 0;
+}
+
+.section-header{
+    font-size: 28px;
+    color: #0aa1da;
+    margin: 10px 0;
+    font-weight: 500;
+}
